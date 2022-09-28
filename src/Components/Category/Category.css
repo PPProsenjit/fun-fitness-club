@@ -1,0 +1,13 @@
+.category{
+    height: 600px;
+    width: 300px;
+    border: 1px solid  ;
+    border-radius: 1px;
+    gap: 50px
+}
+.category img{
+    height: 290px;
+    width: 290px;
+    border-radius: 5px;
+    
+}
