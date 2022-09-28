@@ -1,0 +1,11 @@
+.header{
+ height: 80px;
+ background-color:rgb(122, 78, 50);
+ color: white;
+ display: grid;
+ justify-content: left;
+ display: flex;
+}
+.header img{
+    height: 90px;
+}
