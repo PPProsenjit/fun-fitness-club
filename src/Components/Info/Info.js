@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Breakpoint from '../Breakpoint/Breakpoint';
 import Category from '../Category/Category';
+import ExerciseDetails from '../ExerciseDetails/ExerciseDetails';
 import PersonalInfo from '../PersonalInfo/PersonalInfo';
 import './Info.css'
 const Info = () => {
@@ -26,6 +27,7 @@ const Info = () => {
             <div className="information-container">
                 <PersonalInfo></PersonalInfo>
                 <Breakpoint></Breakpoint>
+                <ExerciseDetails></ExerciseDetails>
             </div>
         </div>
     );

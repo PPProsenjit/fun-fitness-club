@@ -1,0 +1,30 @@
+.exercise-details{
+    margin: 0px 10px;
+    
+}
+.exercise-time{
+    background-color: rgb(225, 217, 217);
+    height: 40px;
+    
+}
+.exercise-time p{
+    padding: 5px 5px;
+}
+.break-time{
+    background-color: rgb(225, 217, 217);
+    height: 40px;
+   
+    align-items: center;
+}
+.break-time p{
+    padding: 5px 5px;
+}
+.exercise-details button{
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 5px;
+    height: 40px;
+}
+.exercise-details button:hover{
+    background-color: white;
+}

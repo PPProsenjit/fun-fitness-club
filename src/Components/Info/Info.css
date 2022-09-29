@@ -13,4 +13,15 @@
 }
 .information-container{
     background-color: antiquewhite;
+    margin: 10px;
+}
+
+@media screen and (max-width:800px) {
+    .info-container{
+        grid-template-columns: 2fr 1fr;
+    }
+    .categories-container{
+        grid-template-columns: repeat(1, 1fr);
+        padding: 1px 1px;
+    }
 }

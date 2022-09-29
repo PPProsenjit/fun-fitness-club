@@ -1,11 +1,15 @@
-.header{
- height: 80px;
- background-color:rgb(122, 78, 50);
- color: white;
- display: grid;
- justify-content: left;
- display: flex;
+.header {
+    height: 80px;
+    background-color: rgb(122, 78, 50);
+    color: white;
+    display: grid;
+    justify-content: left;
+    display: flex;
 }
-.header img{
+
+.header img {
     height: 90px;
+}
+@media screen and (maxi-Width:800px) {
+ 
 }

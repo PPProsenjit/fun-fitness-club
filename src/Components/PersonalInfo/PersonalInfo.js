@@ -13,7 +13,7 @@ const PersonalInfo = () => {
             </div>
             <div className='other-info'>
                 <h3>78 <small> kg weight</small></h3>
-                <h3>7.8 <small>Height</small></h3>
+                <h3>5.8 <small>Height</small></h3>
                 <h3>23 <small>year Age</small></h3>
                 
             </div>
