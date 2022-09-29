@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Blog from '../Blog/Blog';
 import Breakpoint from '../Breakpoint/Breakpoint';
 import Category from '../Category/Category';
 import ExerciseDetails from '../ExerciseDetails/ExerciseDetails';
@@ -31,7 +32,8 @@ const Info = () => {
     }
 
     return (
-        <div className='info-container'>
+        <div>
+            <div className='info-container'>
             <div className="categories-container">
                 {
                     catagories.map(category => <Category
@@ -50,6 +52,8 @@ const Info = () => {
                     setCart = {setCart}
                     current = {current}></ExerciseDetails>
             </div>
+        </div>
+                <Blog></Blog>
         </div>
     );
 };
