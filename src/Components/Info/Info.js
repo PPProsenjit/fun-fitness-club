@@ -6,6 +6,7 @@ import PersonalInfo from '../PersonalInfo/PersonalInfo';
 import './Info.css'
 const Info = () => {
     const [catagories, setCatagories] = useState([]);
+    const [cart, setCart] = useState(0)
     
     useEffect(() =>{
         fetch('categories.json')
@@ -20,6 +21,8 @@ const Info = () => {
                     catagories.map(category => <Category
                     key={category.id}
                     category = {category}
+                    cart = {cart}
+                    setCart = {setCart}
                     ></Category>)
                 }
 
@@ -27,7 +30,8 @@ const Info = () => {
             <div className="information-container">
                 <PersonalInfo></PersonalInfo>
                 <Breakpoint></Breakpoint>
-                <ExerciseDetails></ExerciseDetails>
+                <ExerciseDetails cart = {cart}
+                    setCart = {setCart}></ExerciseDetails>
             </div>
         </div>
     );
