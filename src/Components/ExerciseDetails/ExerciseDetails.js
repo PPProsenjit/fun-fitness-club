@@ -1,6 +1,6 @@
 import React from 'react';
 import './ExerciseDetails.css';
-const ExerciseDetails = ({cart}) => {
+const ExerciseDetails = ({cart, current}) => {
     return (
         <div className='exercise-details'>
             <h2>Exercise Details</h2>
@@ -10,7 +10,7 @@ const ExerciseDetails = ({cart}) => {
             </div>
             <div className='break-time'>
                 <p>Break Time</p>
-                <p>000s</p>
+                <p>{current}</p>
             </div>
             <button>Activity Component</button>
         </div>
