@@ -13,7 +13,7 @@
     "name": "Perkins Williams",
     "age_gap": "25-40",
     "time": 26,
-    "about": "Cillum labore excepteur ipsum excepteur aliqua magna. Veniam irure consequat nulla adipisicing incididunt exercitation esse. Ad ipsum consectetur elit enim ad magna ad aliqua. Laboris ea pariatur ad eu dolor occaecat laboris ipsum qui consectetur magna amet mollit.\r\n"
+    "about": "Cillum labore excepteur ipsum excepteur aliqua magna. Veniam irure consequat nulla adipisicing incididunt exercitation esse.  \r\n"
   },
   {
     "id": "6334997e83d9456338e7d830",
@@ -21,7 +21,7 @@
     "name": "Martinez Craig",
     "age_gap": "15-30",
     "time": 29,
-    "about": "Minim mollit dolore pariatur reprehenderit ipsum aliquip voluptate duis eiusmod ut consectetur. Proident velit exercitation ea magna officia tempor officia aliqua exercitation sit consectetur anim nostrud esse..\r\n"
+    "about": "Minim mollit dolore pariatur reprehenderit ipsum aliquip voluptate duis eiusmod ut consectetur. Proident velit exercitation consectetur anim nostrud esse..\r\n"
   },
   {
     "id": "6334997e68b93dae9d17942e",
@@ -29,7 +29,7 @@
     "name": "Christensen Simon",
     "age_gap": "25-30",
     "time": 30,
-    "about": "Dolore voluptate aute commodo quis labore quis ea. Minim est occaecat ex ut. Elit commodo ex officia aliqua minim. Enim deserunt est id sunt eu anim esse dolore dolor mollit labore magna id. Nisi excepteur exercitation voluptate eiusmod.\r\n"
+    "about": "Dolore voluptate aute commodo quis labore quis ea. Minim est occaecat ex ut. Elit commodo ex officia aliqua minim. \r\n"
   },
   {
     "id": "6334997e498787766a118438",
@@ -37,7 +37,7 @@
     "name": "Daphne Barr",
     "age_gap": "25-50",
     "time": 21,
-    "about": "Commodo do qui exercitation quis ea et non duis. Cillum duis irure sint aute exercitation dolor nulla duis est. Mollit est ipsum ut velit sit veniam. Ad reprehenderit labore et esse laboris irure aliqua dolor. \r\n"
+    "about": "Commodo do qui exercitation quis ea et non duis. Cillum duis irure sint aute exercitation dolor nulla duis est. Mollit est ipsum ut velit sit veniam. \r\n"
   },
   {
     "id": "6334997e6ac8e105ca7d473e",
@@ -45,7 +45,7 @@
     "name": "Lula Parker",
     "age_gap": "15-30",
     "time": 22,
-    "about": "Adipisicing nulla pariatur duis elit in. Exercitation ullamco do laboris et laborum adipisicing ex. Sint ut tempor et consequat voluptate. Culpa duis aute do ad commodo quis exercitation fugiat.\r\n"
+    "about": "Adipisicing nulla pariatur duis elit in. Exercitation ullamco do laboris et laborum adipisicing ex. Sint ut tempor et consequat voluptate. \r\n"
   },
   {
     "id": "6334997ebcb1fe8907e0e3db",
@@ -61,6 +61,6 @@
     "name": "Josefa Hood",
     "age_gap": "20-25",
     "time": 34,
-    "about": "Magna culpa tempor voluptate occaecat laborum duis mollit mollit commodo labore qui exercitation eu. Mollit sit tempor id nulla. Consectetur veniam nulla ut elit duis ipsum commodo ullamco id dolor sunt ipsum veniam. \r\n"
+    "about": "Magna culpa tempor voluptate occaecat laborum duis mollit mollit commodo labore qui exercitation eu. Mollit sit tempor id nulla.\r\n"
   }
 ]
