@@ -1,0 +1,22 @@
+.breakPoint{
+    margin: 0px 10px;
+}
+.btn-breakPoint{
+    align-items: center;
+    display: flex;
+    height: 60px;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.btn-breakPoint button{
+    height: 40px;
+    width: 40px;
+    border-radius: 60%;
+}
+.btn-breakPoint button:hover{
+    background-color: black;
+    color: wheat;
+}
