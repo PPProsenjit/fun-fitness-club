@@ -1,6 +1,8 @@
 import React from 'react';
 import './ExerciseDetails.css';
+import { ToastContainer, toast } from 'react-toastify';
 const ExerciseDetails = ({cart, current}) => {
+    const notify = () => toast("Wow Done!");
     return (
         <div className='exercise-details'>
             <h2>Exercise Details</h2>
@@ -12,7 +14,12 @@ const ExerciseDetails = ({cart, current}) => {
                 <p>Break Time</p>
                 <p>{current}</p>
             </div>
-            <button>Activity Component</button>
+            <div>
+            <button onClick={notify}>Activity Component</button>
+            <ToastContainer />
+
+            </div>
+            
         </div>
     );
 };
